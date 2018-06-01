@@ -3,5 +3,8 @@ All notable changes to the "midnight-flames" extension will be documented in thi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## V 1.0
 - Initial release
+
+## V 1.1
+Fixed README badges.
