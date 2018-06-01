@@ -2,10 +2,39 @@
 	"name": "Midnight Flames",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#1e1e1e",
-		"editor.foreground": "#d4d4d4",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"activityBar.background": "#202020",
+        "activityBar.foreground": "#ffffff",
+        "activityBar.border": "#1c1c1c",
+        "activityBarBadge.background": "#ff5100",
+        "activityBarBadge.foreground": "#ffffff",
+
+        "sideBar.background": "#202020",
+        "sideBar.foreground": "#ffffff",
+        "sideBar.border": "#1c1c1c",
+
+        "statusBar.background": "#ff5100",
+        "statusBar.foreground": "#ffffff",
+        "statusBar.border": "#1c1c1c",
+
+        "editor.background": "#202020",
+        "editorLineNumber.foreground": "#ff5100",
+
+        "button.background": "#ff5100",
+        "button.foreground": "#ffffff",
+        "button.hoverBackground": "#ff6d2a",
+
+        "badge.background": "#ff5100",
+        "badge.foreground": "#ffffff",
+
+        "extensionButton.prominentForeground": "#ffffff",
+        "extensionButton.prominentBackground": "#ff5100",
+        "extensionButton.prominentHoverBackground": "#ff6d2a",
+
+        "terminal.background": "#202020",
+        "terminal.foreground": "#ffffff",
+        "terminal.border": "#1c1c1c",
+        "terminalCursor.foreground": "#ff5100",
+        "terminalCursor.background": "#ff5100",
 	},
 	"tokenColors": [
 		{
