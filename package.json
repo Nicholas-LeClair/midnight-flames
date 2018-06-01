@@ -2,8 +2,14 @@
     "name": "midnight-flames",
     "displayName": "Midnight Flames",
     "description": "A clean modern dark theme with vibrant orange accents.",
-    "version": "0.0.1",
+    "version": "1.0",
     "publisher": "Nickal",
+    "icon": "icon.png",
+    "license": "MIT",
+    "repository": {
+        "type": "GitHub",
+        "url": "https://github.com/Nicholas-LeClair/midnight-flames"
+    },
     "engines": {
         "vscode": "^1.23.0"
     },
