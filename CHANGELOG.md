@@ -8,3 +8,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## V 1.1
 Fixed README badges.
+
+## V 1.1.1
+Updated Icon and README badges.
