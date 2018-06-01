@@ -1,0 +1,22 @@
+{
+    "name": "midnight-flames",
+    "displayName": "Midnight Flames",
+    "description": "A clean modern dark theme with vibrant orange accents.",
+    "version": "0.0.1",
+    "publisher": "Nickal",
+    "engines": {
+        "vscode": "^1.23.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Midnight Flames",
+                "uiTheme": "vs-dark",
+                "path": "./themes/midnightflames-color-theme.json"
+            }
+        ]
+    }
+}
